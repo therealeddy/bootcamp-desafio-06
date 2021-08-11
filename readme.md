@@ -1,12 +1,12 @@
 <h1 align="center">
-  🚀 Users GitHub ReactNative 🚀
+ 💻 Users GitHub ReactNative 💻
 </h1>
 
 <br>
 
 <div align="center">
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/therealeddy/users-github-reactnative/releases)<space><space>
+[![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/therealeddy/users-github-reactnative/releases)<space><space>
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](#overview)
 
 </div>
